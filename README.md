@@ -10,24 +10,6 @@ This is a simple project to build a basic kernel that displays a mouse pointer a
 The project is organized as follows:
 
 ```
-project_root/
-│
-├── src/
-│   ├── kernel/
-│   │   ├── boot/
-│   │   │   ├── bootloader.s        # Bootloader assembly code
-│   │   │   └── linker.ld           # Linker script for bootloader
-│   │   ├── kernel.c                # Kernel C code
-│   │   └── kernel.h                # Header file for kernel
-│   └── mouse/
-│       ├── mouse.c                 # Mouse handling code
-│       └── mouse.h                 # Header file for mouse
-├── build/                          # Output directory for build artifacts
-│
-├── scripts/                        # Build scripts
-│   └── build.sh                    # Script for building the project
-│
-└── README.md                       # Project README file
 ```
 
 ## Build Instructions
