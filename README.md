@@ -1,6 +1,3 @@
-Sure, here's a sample README.md file for your project:
-
-```markdown
 # Simple Kernel Project
 
 This is a simple project to build a basic kernel that displays a mouse pointer and allows the user to perform basic calculations directly in the kernel environment. The project is targeted for the Apple M1 MacBook Air.
@@ -8,9 +5,6 @@ This is a simple project to build a basic kernel that displays a mouse pointer a
 ## Project Structure
 
 The project is organized as follows:
-
-```
-```
 
 ## Build Instructions
 
@@ -51,6 +45,3 @@ Contributions to this project are welcome. If you find any issues or have sugges
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Replace the placeholders (like `yourusername` and `simple-kernel-project`) with actual values relevant to your project. You can also add more sections or details as needed.
