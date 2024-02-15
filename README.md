@@ -13,13 +13,13 @@ To build the project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/simple-kernel-project.git
+    git clone https://github.com/atharvanaphade/kernel.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd simple-kernel-project
+    cd kernel
     ```
 
 3. Run the build script:
